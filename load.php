@@ -1,4 +1,4 @@
-git commit -am "added composer.json file"<?php
+<?php
 $id = $_GET['id'];
 if ($id == "Rand"){
     $id = '350177';
