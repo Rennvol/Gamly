@@ -1,3 +1,5 @@
 <?php
 
-echo "Hacked By Heroku"
+echo "Heroku"
+
+?>
